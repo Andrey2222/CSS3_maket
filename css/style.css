@@ -1,0 +1,48 @@
+.custom-header{
+	background: url('../images/navfon.jpg');
+	min-height: 700px;
+}
+
+.header-line {
+  min-height: 50px;
+  
+}
+.menu {
+	margin-top: 15px;
+	color: white;
+	float: right;
+	font-weight: bold;
+}
+
+.menu li {
+	margin-right: 25px;
+}
+
+.menu li:hover a {
+	color: darkorange;
+}
+.main {
+	padding-top: 150px;
+}
+.h1-custom {
+	font-size: 45px;
+}
+.divider {
+	border: 1px solid darkorange;
+	width: 15%;
+	margin: 15px auto;
+}
+
+.description {
+	width: 70%;
+	margin: 0 auto 30px;
+}
+.about {
+	padding-top: 100px;
+}
+.divider.divider2 {
+	width: 5%;
+}
+h3 {
+	color: darkorange;
+}
